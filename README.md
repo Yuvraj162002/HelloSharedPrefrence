@@ -19,3 +19,10 @@ Here is the some screenshots of the App
 # Apk
 
 https://github.com/Yuvraj162002/HelloSharedPrefrence/blob/master/app-debug.apk
+
+
+# Video
+
+Here is the small video of the app to show how it works
+
+https://github.com/Yuvraj162002/HelloSharedPrefrence/blob/master/HelloPreference.mp4
